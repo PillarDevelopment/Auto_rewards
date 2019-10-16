@@ -1,0 +1,1 @@
+-e git+git://github.com/noah-blockchain/noah-sdk.git#egg=noah-sdk
